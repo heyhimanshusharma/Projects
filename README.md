@@ -1,2 +1,2 @@
 # Projects
-This repository contains my Hardware and Software Projects, early concepts, prototypes etc.
+This repository contains my hardware and software srojects, early concepts, prototypes (CAD models) etc.
