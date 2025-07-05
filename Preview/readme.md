@@ -120,9 +120,4 @@ Adjust constants in `PDFViewerCore.__init__()`:
 - **Memory Usage**: The application loads one page at a time to optimize memory
 
 ## Development
-
-### Extending the Application
-
-The modular structure makes it easy to add new features:
-
-1. **Add a
+The app came out of inspiration and frustation using windows defualt app and lack of minimatlistic pdf viewer other than [sumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader). It is [vibe-coded](https://en.wikipedia.org/wiki/Vibe_coding) using claude, ChatGPT and Gemini and i am learning the libraries along the go. Any suggestions or help are welcomed.
