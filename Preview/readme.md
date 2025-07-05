@@ -15,10 +15,10 @@ A modern, feature-rich PDF viewer built with PyQt5 and PyMuPDF, featuring touch 
 
 ```
 pdf_viewer/
-├── pdf_viewer_main.py       # Main application entry point
-├── pdf_viewer_core.py       # Core PDF handling logic
-├── pdf_viewer_ui.py         # UI components and styling
-├── pdf_content_widget.py    # Touch and gesture handling
+├── main.py       # Main application entry point
+├── core.py       # Core PDF handling logic
+├── ui.py         # UI components and styling
+├── widget.py    # Touch and gesture handling
 ├── requirements.txt         # Project dependencies
 └── README.md               # This file
 ```
