@@ -50,25 +50,25 @@ python pdf_viewer_main.py
 
 ## Module Details
 
-### `pdf_viewer_main.py`
+### `main.py`
 - Main application class (`PDFViewerApp`)
 - Coordinates all modules
 - Handles UI events and user interactions
 - Application entry point
 
-### `pdf_viewer_core.py`
+### `core.py`
 - Core PDF document management (`PDFViewerCore`)
 - Document loading and rendering
 - Page navigation logic
 - Zoom and scroll state management
 
-### `pdf_viewer_ui.py`
+### `ui.py`
 - UI component factory (`PDFViewerUI`)
 - Toolbar builder (`ToolbarBuilder`)
 - Styling and layout definitions
 - Reusable UI components
 
-### `pdf_content_widget.py`
+### `widget.py`
 - Touch event handling (`PDFContentWidget`)
 - Gesture recognition for pinch-to-zoom
 - Mouse wheel event processing
